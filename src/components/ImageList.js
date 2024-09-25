@@ -1,4 +1,7 @@
 function Imagelist() {
-  return <div>Imagelist</div>;
+  return (
+  <div>Imagelist1</div>
+  <div>Imagelist2</div>
+);
 }
 export default Imagelist;
